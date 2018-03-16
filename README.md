@@ -1,2 +1,2 @@
 # blog
-blog perso
+création d'un blog Lorem pour test
